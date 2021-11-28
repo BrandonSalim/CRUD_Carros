@@ -32,11 +32,14 @@ include_once 'include/header.php';
 
                 <div class="input_field col s12">
                     <label for="categoria" style="font-size: 20px">Categoria</label>
+                    <label for="categoria">(Sport,Passeio,Muscle, Etc...)</label>
                     <input type="text" name="categoria" id="categoria">
                 </div>
 
+
                 <div class="input_field col s12">
-                    <label for="combustivel" style="font-size: 20px">Combustivél</label>
+                    <label for="categoria" style="font-size: 20px">Combustivél</label>
+                    <label for="categoria">(Gasolina, Ácool, Híbrido, Elétrico)</label>
                     <input type="text" name="combustivel" id="combustivel">
                 </div>
 

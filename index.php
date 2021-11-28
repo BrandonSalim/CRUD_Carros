@@ -79,7 +79,11 @@ include_once 'include/mensagem.php';
         </table>
         <br>
         <a href="adicionar.php" class="btn" >Adicionar Carro</a>
-        <a href="Relatorio.php" class="btn" >Relatório</a>
+
+        <h5 class="light">Relatórios</h5>
+        <a href="RelatorioModelo.php" class="btn" >Por Modelo</a>
+        <a href="RelatorioMarca.php" class="btn" >Por Marca</a>
+        <a href="RelatorioCategoria.php" class="btn" >Por Categoria</a>
     </div>
 
 </div>
