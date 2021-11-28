@@ -10,7 +10,7 @@ include_once 'include/mensagem.php';
 
 <div class="row">
     <div class="col s12 m6 push-m3">
-        <h3 class="light">Carros</h3>
+        <h3 class="light">Carros: Modelo</h3>
 
 
         <table class="striped">
@@ -41,7 +41,7 @@ include_once 'include/mensagem.php';
 
                     ?>
                     <tr>
-                        <td><?php echo $dados['modelo'] ?></td>
+                        <td bgcolor="orange" style="color: white" ><?php echo $dados['modelo'] ?></td>
                         <td><?php echo $dados['marca'] ?></td>
                         <td><?php echo $dados['cor'] ?></td>
                         <td><?php echo $dados['ano'] ?></td>
