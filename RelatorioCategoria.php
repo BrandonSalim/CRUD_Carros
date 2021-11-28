@@ -43,7 +43,7 @@ include_once 'include/mensagem.php';
 
                     ?>
                     <tr>
-                        <td bgcolor="orange" style="color: white" ><?php echo $dados['categoria'] ?></td>
+                        <td bgcolor="purple" style="color: white" ><?php echo $dados['categoria'] ?></td>
                         <td><?php echo $dados['modelo'] ?></td>
                         <td><?php echo $dados['marca'] ?></td>
                         <td><?php echo $dados['cor'] ?></td>
