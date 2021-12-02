@@ -84,6 +84,10 @@ include_once 'include/mensagem.php';
         <a href="RelatorioModelo.php" class="btn" >Por Modelo</a>
         <a href="RelatorioMarca.php" class="btn" >Por Marca</a>
         <a href="RelatorioCategoria.php" class="btn" >Por Categoria</a>
+        <h5 class="light">Pesquisas</h5>
+        <a href="BuscaModelo.html" class="btn" >Busca Modelo</a>
+        <a href="BuscaMarca.html" class="btn" >Busca Marca</a>
+        <a href="BuscaCategoria.html" class="btn" >Busca Categoria</a>
     </div>
 
 </div>
